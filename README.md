@@ -3,7 +3,7 @@
 A simple Spotify Clone built using **HTML + CSS** to practice layout design and styling.
 
 🔗 Live Demo
-[View Here](https://YOUR-USERNAME.github.io/spotify-clone-html-css/)
+[View Here]( https://vartika1930.github.io/Spotify-Clone/)
 
 ⚡ Features
 - Spotify-like UI design
